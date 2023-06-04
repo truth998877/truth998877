@@ -10,7 +10,7 @@ Me -> www.tonyruther.com
 Me, gaming -> www.twitch.tv/fortiesgamer  
 Me, studying -> www.twitch.tv/studywithtony  
 
-## My Systems (not all powered up at the same time):
+## My Systems (not all powered up at the same time)
 
 x86 - Gigabyte z68, i7 3770k, 32Gb RAM, 2x Nvidia gtx 650 ti boost (daily driver, earth)  
 x86 - 3x HP Z600, 2x xeon x5675, 96Gb RAM (alpha, beta, gamma)  
@@ -40,3 +40,8 @@ Improve Matlab Knowledge (work)
 Learn Python/Go/Fortran/C (play)  
 
 (Astro)Physics MSc/PhD
+
+## Upcoming Projects
+
+Gas Turbine Modelling Framework in C and/or Fortran    
+CFD modelling of Swing Bowling  
