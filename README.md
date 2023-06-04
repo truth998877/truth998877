@@ -46,6 +46,6 @@ Learn Python/Go/Fortran/C (play)
 Gas Turbine Modelling Framework in C and/or Fortran    
 CFD modelling of Swing Bowling  
 
-## Dotfiles (In perpetule developement) 
+## Dotfiles (In perpetual development) 
 
 https://github.com/truth998877/dotfiles  
