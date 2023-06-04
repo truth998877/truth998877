@@ -4,7 +4,7 @@
 
 Fuel Cell Modelling and Data Analysis Engineer.   
 Former Gas Turbine Performance Engineer.  
-Aspiring Computational/Theoretical [Astro]Physicist.  
+Aspiring Computational/Theoretical (Astro)Physicist.  
   
 Me -> www.tonyruther.com  
 Me, gaming -> www.twitch.tv/fortiesgamer  
@@ -32,4 +32,11 @@ Dragon 32k
 ZX81 16k  
 
 iPad Pro 12.9  
-iPhone 8  
+iPhone 8
+
+## Goals
+
+Improve Matlab Knowledge (work)  
+Learn Python/Go/Fortran/C (play)  
+
+(Astro)Physics MSc/PhD
