@@ -17,7 +17,7 @@ x86 - 3x HP Z600, 2x xeon x5675, 96Gb RAM (alpha, beta, gamma)
 x86 - Asus p6t7, xeon x5690, 48Gb RAM, nvidia quadro K6000, 1x Nvidia Tesla k40c, 1x Nvidia Tesla k20c (Jupiter)  
 x86 - Asus x58, xeon ??, 24Gb RAM (Saturn)  
 x86 - Apple MacBook Pro Early 2015, i5 2.7Ghz, 8GB RAM  
-x86 - Lenovo ThinkStation P700 - 1x Xeon 8C E5-2630v3, 16GB RAM  
+x86 - Lenovo ThinkStation P700 - 1x Xeon 8C E5-2630v3, 16GB RAM (mars)  
 SPARC - Sun Microsystems Blade 2500 Silver, (Neptune, u/s)  
 SPARC - Sun Microsystems Blade 1000  
 SPARC - Sun Microsystems Ultra 80  
