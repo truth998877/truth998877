@@ -43,8 +43,8 @@ Learn Python/Go/Fortran/C (play)
 
 ## Upcoming Projects
 
-Gas Turbine Modelling Framework in C and/or Fortran    
-CFD modelling of Swing Bowling  
+Gas Turbine Modelling Framework in C and/or Fortran  
+CFD modelling of Swing Bowling in Cricket  
 
 ## Dotfiles (In perpetual development) 
 
