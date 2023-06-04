@@ -36,10 +36,10 @@ iPhone 8
 
 ## Goals
 
-Improve Matlab Knowledge (work)  
-Learn Python/Go/Fortran/C (play)  
+Improve Matlab Knowledge (for work, I support a large legacy matlab code base)  
+Learn Python/Go/Fortran/C (for fun), to write architecture portable code, hnce why I own systems with x86, SPARC, PowerPC and ARM based CPUs.  
 
-(Astro)Physics MSc/PhD
+(Astro)Physics MSc/PhD. I have a BSc already, however, that seems like a lifetime ago.
 
 ## Upcoming Projects
 
