@@ -6,9 +6,9 @@ Fuel Cell Modelling and Data Analysis Engineer.
 Former Gas Turbine Performance Engineer.  
 Aspiring Computational/Theoretical (Astro)Physicist.  
   
-Me -> www.tonyruther.com  
-Me, gaming -> www.twitch.tv/fortiesgamer  
-Me, studying -> www.twitch.tv/studywithtony  
+CV: www.tonyruther.com  
+My Gaming Channel: www.twitch.tv/fortiesgamer  
+My Studying Channel: www.twitch.tv/studywithtony  
 
 ## My Systems (not all powered up at the same time)
 
