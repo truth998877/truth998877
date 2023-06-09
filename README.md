@@ -43,7 +43,7 @@ Learn Python/Go/Fortran/C (for fun), to write architecture portable code, hnce w
 
 ## Upcoming Projects
 
-Gas Turbine Modelling Framework in C and/or Fortran  
+Gas Turbine Modelling Framework in C, Fortran, Python and/or Octave/Matlab  
 CFD modelling of Swing Bowling in Cricket  
 
 ## Dotfiles (In perpetual development) 
