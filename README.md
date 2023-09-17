@@ -62,7 +62,22 @@ Learn Python/Go/Fortran/C (for fun), to write architecture portable code, hence 
 ## Upcoming Projects
 
 Gas Turbine Modelling Framework in C, Fortran, Python and/or Octave/Matlab  
-CFD modelling of Swing Bowling in Cricket  
+CFD modelling of Swing Bowling in Cricket 
+
+## Daily Schedule
+
+-----------------   ---------------------------------------- --------
+  05:00 - 07:00       Goals                                    2
+  07:00 - 09:30       Breakfast/Family Time/School run         2.5
+  09:30 - 12:30       Work                                     3
+  12:30 - 13:30       Lunch Goals/take a nap                   1
+  13:30 - 14:45       Work                                     1.25
+  14:45 - 15:15       School Run                               0.5
+  15:15 - 18:15       Work                                     3
+  18:15 - 21:00       Dinner/Family Time                       2.75
+  21:00 - 23:00       Goals                                    2
+  23:00 - 05:00       Sleep                                    6
+----------------   ----------------------------------------  -------- 
 
 ## Dotfiles (In perpetual development) 
 
