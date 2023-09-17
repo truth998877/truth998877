@@ -24,14 +24,14 @@ Lenono Thinkcentre m93p (venus)
 
 ### Sparc
 
-Sun Microsystems Blade 2500 Silver, (Neptune, u/s, I think)  
+Sun Microsystems Blade 2500 Silver, (neptune, u/s, I think)  
 Sun Microsystems Blade 1000  
 Sun Microsystems Ultra 80  
 Sun Microsystems Ultra 10, 440MHz, 512 MB RAM, 2x 9.1 GB IDE HDD (eris)  
 
 ### Power PC
 
-Apple Powermac G5 Quad (Uranus)  
+Apple Powermac G5 Quad (uranus)  
 
 ### Arm
 
