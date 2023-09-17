@@ -2,7 +2,8 @@
 
 ## Me
 
-Fuel Cell Modelling and Data Analysis Engineer, supporting a large legacy Matlab code base  
+Father.  
+Fuel Cell Modelling and Data Analysis Engineer, supporting a large legacy Matlab code base.  
 Former Gas Turbine Performance Engineer (~20 years).  
 Aspiring Computational/Theoretical (Astro)Physicist.  
   
