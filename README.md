@@ -9,7 +9,19 @@ Aspiring Computational/Theoretical (Astro)Physicist.
   
 CV: www.tonyruther.com  
 My Gaming Channel: www.twitch.tv/fortiesgamer  
-My Studying Channel: www.twitch.tv/studywithtony  
+My Studying Channel: www.twitch.tv/studywithtony 
+
+## Interests 
+
+Systems Modelling/Simulation  
+Computer Aided Engineering  
+Computational [Astro]Physics  
+Architecturally Portable Code (See My Systems)  
+System Administration  
+Cybersecurity/Penetration Testing/Ethical Hacking  
+Open Source Software  
+Martial Arts  
+Gaming (on Linux)
 
 ## My Systems (not all powered up at the same time)
 
