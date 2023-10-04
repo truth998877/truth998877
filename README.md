@@ -19,7 +19,11 @@ Computational [Astro]Physics
 Architecturally Portable Code (See My Systems)  
 System Administration  
 Cybersecurity/Penetration Testing/Ethical Hacking  
-Open Source Software  
+Home Automation  
+Open Source Software
+Cricket  
+Camping/Hiking  
+Travel  
 Martial Arts  
 Gaming (on Linux)
 
