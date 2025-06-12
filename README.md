@@ -2,8 +2,9 @@
 
 ## Me
 
-Father.  
-Fuel Cell Modelling and Data Analysis Engineer, supporting a large legacy Matlab code base.  
+Father.
+Freelance Cybersecurity researcher
+Former Fuel Cell Modelling and Data Analysis Engineer, supporting a large legacy Matlab code base.  
 Former Gas Turbine Performance Engineer (~20 years).  
 Aspiring Computational/Theoretical (Astro)Physicist.  
   
@@ -24,7 +25,7 @@ Open Source Software
 Cricket  
 Camping/Hiking  
 Travel  
-Martial Arts  
+Martial Arts (karate)
 Gaming (on Linux)
 
 ## My Systems (not all powered up at the same time)
@@ -37,7 +38,8 @@ Asus p6t7, xeon x5690, 48Gb RAM, Nvidia Quadro K6000, 2x Nvidia Tesla k40c (jupi
 Asus p6t deluxe v2, 24Gb RAM,  (saturn)  
 Apple MacBook Pro i5 2.7Ghz, 8gb RAM, 128gb SSD  
 Lenovo ThinkStation P700 (mars)  
-Lenono Thinkcentre m93p (venus)  
+Lenono Thinkcentre m93p (venus)
+Lenovo Thinkpad t480
 
 ### Sparc
 
@@ -66,7 +68,7 @@ iPad Pro 12.9
 
 ### Phone
 
-iPhone 8
+iPhone XR
 
 ## Goals
 
