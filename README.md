@@ -4,7 +4,7 @@
 
 Father.  
 
-Freelance Cybersecurity researcher.
+Freelance Cybersecurity researcher.  
 Lead Developer GTDev-NG.  
 Science/Mathematics Textbook Author.  
 Online Entrepreneur.  
