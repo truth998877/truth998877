@@ -6,7 +6,7 @@ Father.
 
 Freelance Cybersecurity researcher.  
 Lead Developer GTDev-NG.  
-Science/Mathematics Textbook Author.  
+Science/Mathematics Textbook/Course Author.  
 Online Entrepreneur.  
 
 Former Fuel Cell Modelling and Data Analysis Engineer, supporting a large legacy Matlab code base.    
