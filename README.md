@@ -14,7 +14,7 @@ Former Gas Turbine Performance Engineer (~20 years).
 
 Aspiring Computational/Theoretical (Astro)Physicist.  
 
-Karate-ka
+Karate-ka  
 Cricketer
   
 CV: www.tonyruther.com  
